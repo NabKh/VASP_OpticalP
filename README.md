@@ -16,4 +16,4 @@ The practical calculation flow is the following :
 
 5.  Plot the results using Sumo or OriginLab
 
-I upload soon an examples related to the optical properties of two-dimensional materials using DFT and then based on GW+BSE implemented in VASP package.
+I will soon upload an examples related to the optical properties of two-dimensional materials using DFT and then based on GW+BSE implemented in VASP package.
